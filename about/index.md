@@ -1,25 +1,16 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, responsive]
+title: About this Publication
+tags: [about, Glob, stet]
 modified: 2014-08-08T20:53:07.573882-04:00
-comments: true
+comments: false
 image:
-  feature: texture-feature-02.jpg
-  credit: Texture Lovers
-  creditlink: http://texturelovers.com
+  feature: oops.png
 ---
 
-Minimal Mistakes is responsive Jekyll theme with large featured images and solid typography. As the name implies the styling is fairly minimal to make it easier for you to build on top of.
+A relict of the once prosperous Glob Group of publications, the Evening * Glob continues in the tradition of its predecessors *The Japester*, *Prise de Fer*, and *Bray*. 
 
-## Minimal Mistakes is all about:
-
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 8+ and all modern browsers. 
-* Minimal embellishments -- content first.
-* Optional large feature images for posts and pages.
-* Simple and clear permalink structure.
-* [Custom 404 page](http://mmistakes.github.io/minimal-mistakes/404.html) to get you started.
-* Support for Disqus Comments
-
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install Minimal Mistakes Theme</a>
+Regrettably, the Glob archives from the nineteenth and twentieth centuries remain under
+seal, and so this site can only present a small sampling of the prodigious output of
+the Evening * Glob. The staff of Consolidated Glob hope that the remaining litigation
+can be resolved satisfactorily, in the fullness of time.

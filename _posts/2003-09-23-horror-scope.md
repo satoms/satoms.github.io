@@ -1,0 +1,25 @@
+---
+layout: post
+date: 2003-09-23 17:15:33
+title: HORROR SCOPE
+image:
+   feature: labs.png
+---
+
+From time to time, the hushed halls of The Glob Universal School of Knowledge echo forth with the lusty cry of an academic hot on the heels of a research topic. This disturbance invariably rouses certain ancient researchers from their studies, who join in the general din with cracked bays of criticism on the shoddy methods employed by researchers these days. Things get bad enough when a single department is thrown into an uproar, but recent trends in cross-disciplinary studies have led to more than one line of research inciting fully more than half the faculty, requiring intervention by a squad of deans to pacify the inmates.
+
+As a result of these disturbances, The Glob Universal Professor of Classics, Dr. Ni Ansa, has proceeded with extreme caution in publicizing his latest discovery. Working with materials scientists and imaging technicians at Glob Labs, Dr. Ansa has succeeded in completely recovering a text from one of the famous burned scrolls of Pompeii. The source scroll resembled a roughly oblong charcoal briquette before treatment, which took six months in total. 
+
+The recovery procedure involved first completely scanning the surface of the scroll with a tunnelling electron microscope and optical microscopes in the infrared, visible, and ultraviolet spectra. Then a computer-controlled laser vaporized a molecule-thick layer from the scroll, and the scroll was scanned again as before. These peeling and scanning operations continued in strict alternation until no trace of the scroll remained whatsoever, at which point the database of measurements was declared complete. 
+
+A powerful parallel computer then ran models over the collected data, looking for combinations of layers that, when unrolled, would yield patterns somewhat text-like. The candidate reconstructions were reviewed by Dr. Ansa, who made the final determination of the most likely match. As things turned out, the ink of this particular scroll charred differently than the papyrus, which greatly helped the analysis. Dr. Ansa immediately recognized the best candidate text as yet another copy of Aristotle's _Ethics_, with a few unique, minor variations. This was something of an accomplishment, but far more astonishing results were obtained in the control study.
+
+In order to protect against experimenter bias in evaluating the recovery technique, the experiment had been designed as a double blind. The recovery procedure was actually run against two carbonized samples, one being a genuine scroll from the Villa of the Papyri in Pompeii, and one being a briquette prepared by Glob Labs from a blank papyrus scroll using an artificial volcano. Neither Dr. Ansa nor the Glob Labs technicians knew which sample was which. The genuine scroll yielded up Aristotle, but it turned out that the procedure recovered a text from the dummy scroll as well, with an even higher degree of correlation.
+
+At first, the experiment's director suspected foul play in the preparation of the dummy scroll, but textual analysis by Dr. Ansa concluded that the text was unlikely to have been forged by anyone on the project. None of the Glob Labs staff knows Latin, and the style of the text is both subtle and refined. Dr. Ansa himself did not have access to the lab building where the dummy scroll was prepared, as the artificial volcano is an extremely dangerous piece of equipment.
+
+The text appears to be the first book in a longer work, _De Voluptate C&aelig;leste_, dealing with the manipulation of people through casting of horoscopes. The material is presented as a series of dialogues at a dinner party, in which a master astrologer, Scortator Audax, alternately flatters and lampoons the guests with horoscopes to affect changes in their behavior. The astrologer appears to be manuvering to estrange all the wives from their husbands, in order to obtain opportunities for more detailed, personal study of the ladies' stellar qualities.
+
+The author focuses the bulk of his discussion on the associations and influences of the hitherto unknown constellation Morpio, a small, faint grouping of stars that Scortator Audax repeatedly invokes to inflict particular discomfiture to guests he doesn't like (that is, the husbands). Dr. Ansa has begun to trace echoes of the racy dialogue in later works by other authors, most notably the _Satyricon_ of Petronius Arbiter. The only difficultly, of course, is that by all rights the work under study shouldn't exist, and Dr. Ansa is unable to consult with colleagues at the School due to the risk of inciting a riot.
+
+I have therefore selected this ontological puzzle as our brainteaser for this week. Solutions should be submitted to In re: The Authorless Text, care of this column. All entries will be forwarded to Dr. Ansa for evaluation, who remains sequestered for his own safety at the Heavy Research Facility at Glob Labs. The author of the winning entry will receive a personalized horoscope from The Glob's resident astrologer, cast according to the methods of Scortator Audax. Carpe astra, lector!

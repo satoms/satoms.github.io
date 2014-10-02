@@ -118,6 +118,10 @@ p {
 			text-indent: $indent-var;
 			margin-top: -($indent-var);
 		}
+	} @else {
+	& + p {
+			margin-top: -1rem;
+		}
 	}
 }
 
